@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: Medical-Chatbot
+Version: 0.0.1
+Author: Muhammad Usman Akram
+Author-email: m.usman.akram021@gmail.com
+License-File: LICENSE
+Requires-Dist: ctransformers==0.2.25
+Requires-Dist: sentence-transformers==3.1.1
+Requires-Dist: langchain==0.3.0
+Requires-Dist: langchain-community==0.3.0
+Requires-Dist: Flask==3.0.3
+Requires-Dist: python-dotenv
+Requires-Dist: pinecone
