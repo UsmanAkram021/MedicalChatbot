@@ -13,7 +13,7 @@ setup(
         "Flask==3.0.3",
         "pypdf==5.0.0",
         "python-dotenv",
-        "pinecone"
+        "pinecone-client==5.0.1"
     ],
     packages=find_packages()
 )
